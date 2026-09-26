@@ -209,19 +209,7 @@ skipping the user-id filter on a query, and logging sensitive fields.
 
 See "Scaling this project" in [`docs/architecture.md`](docs/architecture.md).
 
-## Screenshots
 
-Suggested captures for your submission (save into `screenshots/`):
-`01-folder-structure.png`, `02-architecture-diagram.png`, `03-register-page.png`,
-`04-login-page.png`, `05-profile-page.png`, `06-generate-plan.png`,
-`07-dashboard.png`, `08-history-page.png`, `09-cloud-files-page.png`,
-`10-api-docs.png`, `11-test-results.png`, `12-github-repo.png`.
-
-## Results
-
-A working, end-to-end cloud application: authenticated users generate and
-revisit personalized diet plans, with structured data and files kept
-separately and correctly isolated per user.
 
 ## Limitations
 
@@ -250,4 +238,7 @@ educational/wellness examples, not medical or clinical nutrition advice.
 
 ## Author
 
-Built by Neha as a Cloud Computing course project.
+👤 Author
+NEHA JOSHI |
+[GitHub] https://github.com/Neha-Joshi05/-ai-personal-diet-planner-cloud.git | [LinkedIn] https://www.linkedin.com/in/neha-joshi-0851a2322?utm_source=share_via&utm_content=profile&utm_medium=member_android  | [LiveDemo] https://ai-personal-diet-planner-cloud.vercel.app/
+[LiveDemo] https://ai-personal-diet-planner-cloud-production.up.railway.app
