@@ -1,0 +1,56 @@
+{
+  "veg": {
+    "breakfast": [
+      {"name": "Vegetable poha with peanuts", "kcal": 320, "p": 10, "c": 52, "f": 9},
+      {"name": "Moong dal chilla with curd", "kcal": 300, "p": 16, "c": 34, "f": 10}
+    ],
+    "lunch": [
+      {"name": "Paneer, roti and salad", "kcal": 520, "p": 26, "c": 54, "f": 20},
+      {"name": "Rajma, rice and curd", "kcal": 560, "p": 20, "c": 86, "f": 12}
+    ],
+    "snack": [
+      {"name": "Roasted chana and fruit", "kcal": 180, "p": 9, "c": 24, "f": 5},
+      {"name": "Sprouts chaat", "kcal": 160, "p": 10, "c": 22, "f": 3}
+    ],
+    "dinner": [
+      {"name": "Dal, sabzi and roti", "kcal": 480, "p": 18, "c": 64, "f": 14},
+      {"name": "Paneer bhurji and roti", "kcal": 500, "p": 24, "c": 44, "f": 20}
+    ]
+  },
+  "vegan": {
+    "breakfast": [
+      {"name": "Oats with almond milk and banana", "kcal": 340, "p": 10, "c": 58, "f": 8},
+      {"name": "Besan chilla", "kcal": 310, "p": 14, "c": 36, "f": 9}
+    ],
+    "lunch": [
+      {"name": "Chole and rice", "kcal": 540, "p": 18, "c": 90, "f": 10},
+      {"name": "Tofu stir-fry with quinoa", "kcal": 520, "p": 24, "c": 60, "f": 16}
+    ],
+    "snack": [
+      {"name": "Roasted peanuts and fruit", "kcal": 190, "p": 8, "c": 20, "f": 9},
+      {"name": "Hummus with veg sticks", "kcal": 170, "p": 7, "c": 18, "f": 8}
+    ],
+    "dinner": [
+      {"name": "Mixed dal and roti (no ghee)", "kcal": 460, "p": 17, "c": 62, "f": 12},
+      {"name": "Tofu curry and rice", "kcal": 500, "p": 22, "c": 58, "f": 14}
+    ]
+  },
+  "nonveg": {
+    "breakfast": [
+      {"name": "Egg bhurji with toast", "kcal": 340, "p": 18, "c": 30, "f": 15},
+      {"name": "Boiled eggs with oats", "kcal": 360, "p": 20, "c": 40, "f": 12}
+    ],
+    "lunch": [
+      {"name": "Grilled chicken, rice and salad", "kcal": 560, "p": 38, "c": 58, "f": 14},
+      {"name": "Fish curry and rice", "kcal": 540, "p": 30, "c": 60, "f": 16}
+    ],
+    "snack": [
+      {"name": "Boiled egg and fruit", "kcal": 180, "p": 12, "c": 14, "f": 8},
+      {"name": "Greek yogurt with nuts", "kcal": 190, "p": 14, "c": 10, "f": 9}
+    ],
+    "dinner": [
+      {"name": "Chicken curry and roti", "kcal": 520, "p": 32, "c": 44, "f": 18},
+      {"name": "Grilled fish with vegetables", "kcal": 480, "p": 34, "c": 20, "f": 22}
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+storage/
+
+# --- Env / secrets ---
+.env
+
+# --- Node / frontend ---
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# --- Editor / OS ---
+.vscode/
+.DS_Store
+
+# --- Tests ---
+.pytest_cache/
